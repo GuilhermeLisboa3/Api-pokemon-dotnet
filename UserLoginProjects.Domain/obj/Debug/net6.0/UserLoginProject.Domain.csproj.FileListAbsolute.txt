@@ -1,0 +1,12 @@
+C:\documentos\UserLoginProject\UserLoginProjects.Domain\bin\Debug\net6.0\UserLoginProject.Domain.deps.json
+C:\documentos\UserLoginProject\UserLoginProjects.Domain\bin\Debug\net6.0\UserLoginProject.Domain.dll
+C:\documentos\UserLoginProject\UserLoginProjects.Domain\bin\Debug\net6.0\UserLoginProject.Domain.pdb
+C:\documentos\UserLoginProject\UserLoginProjects.Domain\obj\Debug\net6.0\UserLoginProject.Domain.csproj.AssemblyReference.cache
+C:\documentos\UserLoginProject\UserLoginProjects.Domain\obj\Debug\net6.0\UserLoginProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\documentos\UserLoginProject\UserLoginProjects.Domain\obj\Debug\net6.0\UserLoginProject.Domain.AssemblyInfoInputs.cache
+C:\documentos\UserLoginProject\UserLoginProjects.Domain\obj\Debug\net6.0\UserLoginProject.Domain.AssemblyInfo.cs
+C:\documentos\UserLoginProject\UserLoginProjects.Domain\obj\Debug\net6.0\UserLoginProject.Domain.csproj.CoreCompileInputs.cache
+C:\documentos\UserLoginProject\UserLoginProjects.Domain\obj\Debug\net6.0\UserLoginProject.Domain.dll
+C:\documentos\UserLoginProject\UserLoginProjects.Domain\obj\Debug\net6.0\refint\UserLoginProject.Domain.dll
+C:\documentos\UserLoginProject\UserLoginProjects.Domain\obj\Debug\net6.0\UserLoginProject.Domain.pdb
+C:\documentos\UserLoginProject\UserLoginProjects.Domain\obj\Debug\net6.0\ref\UserLoginProject.Domain.dll

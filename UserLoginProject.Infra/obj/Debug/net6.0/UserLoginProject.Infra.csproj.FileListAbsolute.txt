@@ -1,0 +1,15 @@
+C:\documentos\UserLoginProject\UserLoginProject.Infra\bin\Debug\net6.0\UserLoginProject.Infra.deps.json
+C:\documentos\UserLoginProject\UserLoginProject.Infra\bin\Debug\net6.0\UserLoginProject.Infra.dll
+C:\documentos\UserLoginProject\UserLoginProject.Infra\bin\Debug\net6.0\UserLoginProject.Infra.pdb
+C:\documentos\UserLoginProject\UserLoginProject.Infra\bin\Debug\net6.0\UserLoginProject.Domain.dll
+C:\documentos\UserLoginProject\UserLoginProject.Infra\bin\Debug\net6.0\UserLoginProject.Domain.pdb
+C:\documentos\UserLoginProject\UserLoginProject.Infra\obj\Debug\net6.0\UserLoginProject.Infra.csproj.AssemblyReference.cache
+C:\documentos\UserLoginProject\UserLoginProject.Infra\obj\Debug\net6.0\UserLoginProject.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\documentos\UserLoginProject\UserLoginProject.Infra\obj\Debug\net6.0\UserLoginProject.Infra.AssemblyInfoInputs.cache
+C:\documentos\UserLoginProject\UserLoginProject.Infra\obj\Debug\net6.0\UserLoginProject.Infra.AssemblyInfo.cs
+C:\documentos\UserLoginProject\UserLoginProject.Infra\obj\Debug\net6.0\UserLoginProject.Infra.csproj.CoreCompileInputs.cache
+C:\documentos\UserLoginProject\UserLoginProject.Infra\obj\Debug\net6.0\UserLoginProject.Infra.csproj.CopyComplete
+C:\documentos\UserLoginProject\UserLoginProject.Infra\obj\Debug\net6.0\UserLoginProject.Infra.dll
+C:\documentos\UserLoginProject\UserLoginProject.Infra\obj\Debug\net6.0\refint\UserLoginProject.Infra.dll
+C:\documentos\UserLoginProject\UserLoginProject.Infra\obj\Debug\net6.0\UserLoginProject.Infra.pdb
+C:\documentos\UserLoginProject\UserLoginProject.Infra\obj\Debug\net6.0\ref\UserLoginProject.Infra.dll
